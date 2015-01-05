@@ -6,4 +6,4 @@ I've been into open-source for some time, ever since I brought my shcool's old l
 
 I always wanted to get involved in the open-source community, but I am not technically advanced (yet!). But then I saw how [Mozilla](mozilla.org), the makers of Firefox, had ways for novices to contribute, like documentation and support. I got my feet wet by [editing some articles](https://developer.mozilla.org/en-US/profiles/irowe) on HTML standards. For people who don't know what that means, I would recommend Mozilla's [Army of Awesome](https://support.mozilla.org/en-US/army-of-awesome), where you can help Firefox users out on Twitter.
 
-This brings me to Google Code-In
+This brings me to Google Code-In. It's no secret that I would like to become a programmer and work for a company like Google, but so far my CS and programming education has been largely self-guided and slow (Shoutout to Codecademy and my new best friend Sal Khan), and I usually can't contribute to things because they are mostly over my head. So when my friend (the same one with the Linux images)
