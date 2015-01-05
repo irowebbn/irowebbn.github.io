@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 I've been into open-source for some time, ever since I brought my school's old laptops back to life with my friend's Puppy Linux disc. I was amazed at how a project could reach quality at or above that of it's proprietary counterparts, and still remain free ([both as in beer and as in speech](http://www.gnu.org/philosophy/free-sw.html)). In this lies a revolution of open-source: if a project is free (of charge), then users are attracted, and if it is free (to contribute), then users who find it useful are motivated to contribute, which makes the project better and attracts more potential contributors.
@@ -16,7 +16,7 @@ The guide went on to list ways to contribute: Documentation, Research, Outreach,
 
 The first task I did with Google Code-In probably didn't help Copyleft Games, the mentor organization much. It was marked "beginner", and all I had do was set up Copyleft's 3D game engine on my computer, run a demo rendering, and take a screenshot. The task was really about introducing students to tools used for Linux development, but I still hit a few roadblocks. For example, did you know that you need Python 3, not 2 to install PySoy with WAF, and you need to compile Python with the `--enable-shared flag` in order for an interpreter to be embedded into another application? Neither did I. So here's a thank you to Arc Riley, a mentor, as well as @ubuntor and @poxip, whose real names I may never know. Thank you for listening to my dumb questions on IRC (I also learned not to ask to ask, but to ask).
 
-
+<img src="images/PySoyDemo.png">
 
 So here's where I am now. While looking through more available task, I found a task from Sugar, the group that make software for those laptops they give to kids in Africa, titled "Introduce Yourself". Here is what it said:
 
@@ -24,7 +24,4 @@ So here's where I am now. While looking through more available task, I found a t
 
 "No," you think to yourself,"I've been fooled into reading this high-school kid just wrote to get a t-shirt from Google, he doesn't care about this stuff at all!" Well, that is partly true. This post is a response to that task, and it does help me win a t-shirt. But this blog post serves as more than that. In order to express my gratiude for this task not being marked "beginner", I have turned this in to something more, a call to action for everyone, even those not technically inclined, to contribute to open source, because that's what Google Code-In is about. [Open source is really important](http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html); nearly every piece of technology you use relies on some open source (you can find the GNU Open Source License on an Apple iPhone), and the best way to show gratitude is to give back to the community.
 
-So in response to the prompt, I am participating in the Google Code-In because I believe in open source. I hope to learn more about programming but also about the communities behind each of these organizations. 
-
-
- 
+So in response to the prompt, I am participating in the Google Code-In because I believe in open source. I hope to learn more about programming but also about the communities behind each of these organizations. mariahvillarreal can help me by getting this word out. Thank you for giving me this oppertunity, Mariah. Now show this to everyone at Sugar Labs. Judges at Google, share this to your friends. Tweet about it. Everyone can get involved in open source. I hope this little post helps inspire a few.
