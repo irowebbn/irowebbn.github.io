@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trying my hand at Google Code-In &mdash; Isaac Rowe</title>
+    <!--[if lt IE 9]><script src='https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js'></script><![endif]-->
+    
+    <link rel="stylesheet" href="/assets/app.css">
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+<script src="/assets/app.js"></script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-59004103-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+    <link rel="shortcut icon" href="/favicon.ico?v2" type="image/x-icon" />
+    <link rel="alternate" type="application/atom+xml" title="Isaac Rowe" href="/atom.xml" />
+    <meta name="title" content="Trying my hand at Google Code-In ">
+    <link rel="canonical" href="http://www.isaacrowe.net/2015/01/04/trying-google-code-in/">
+     
+    <link rel="author" href="https://plus.google.com/+isaacrowe">       
+    <meta property="og:title" content="Trying my hand at Google Code-In"/>
+    <meta property="og:url" content="http://www.isaacrowe.net/2015/01/04/trying-google-code-in/"/>
+    <meta property="og:image" content="http://www.isaacrowe.net/images/coding.jpg"/>
+    
+    <meta property="og:description" content="I've been into open-source for some time, ever since I brought my school's old laptops back to life with my friend's Puppy Linux disc. I was amazed at how a project could reach quality at or above that of it's proprietary counterparts, and still remain free"/>
+    <meta name="description" content="I've been into open-source for some time, ever since I brought my school's old laptops back to life with my friend's Puppy Linux disc. I was amazed at how a project could reach quality at or above that of it's proprietary counterparts, and still remain free"/>
+    
+    <meta property="og:site_name" content="Isaac Rowe">     
+</head>
+<body>
+    
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="Inc">
+            </a>
+            <a href="/">Blog</a>
+            <a href="/about/">About</a>
+        </nav>
+    </header>
+</section>
+
+
+<div class="article-cover" style="background-image:url(/images/coding.jpg)"></div>
+
+
+
+<article >
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                By <address><a rel="author" href="" title="Isaac" target="_blank">Isaac</a></address> &mdash;
+                <time pubdate datetime="2015-04-January" title="Jan 04, 2015">Jan 04, 2015</time> &mdash;
+                
+5 min read
+            </div>
+            <h1 class="title">Trying my hand at Google Code-In</h1>
+            <h2 class="subtitle">Why everyone should contribute to open-source</h2>
+        </header>
+
+        <section>
+            <p>I’ve been into open-source for some time, ever since I brought my school’s old laptops back to life with my friend’s Puppy Linux disc. I was amazed at how a project could reach quality at or above that of its proprietary counterparts, and still remain free (<a href="http://www.gnu.org/philosophy/free-sw.html">both as in beer and as in speech</a>). In this lies a revolution of open-source: if a project is free (of charge), then users are attracted, and if it is free (to contribute), then users who find it useful are motivated to contribute, which makes the project better and attracts more potential contributors.</p>
+
+<p>I always wanted to get involved in the open-source community, but I am not technically advanced (yet!). But then I saw how <a href="mozilla.org">Mozilla</a>, the makers of Firefox, had ways for novices to contribute, like documentation and support. I got my feet wet by <a href="https://developer.mozilla.org/en-US/profiles/irowe">editing some articles</a> on HTML standards. For people who don’t know what that means, I would recommend Mozilla’s <a href="https://support.mozilla.org/en-US/army-of-awesome">Army of Awesome</a>, where you can help Firefox users out on Twitter.</p>
+
+<p>This brings me to Google Code-In. It’s no secret that I would like to become a programmer and work for a company like Google, but so far my CS and programming education has been largely self-guided and slow (Shoutout to Codecademy and my new best friend Sal Khan, seriously, their stuff is great), and I usually can’t contribute to things because they are mostly over my head. For those who don’t know, Google Code-In is a contest sponsored by Google where high school students can complete tasks for various open-source organizations for prizes. One task completed gets a certificate, three gets a T-shirt, and a completing a large number of creative tasks qualifies finalists for other prizes. Each student can only do 2 beginner tasks. So when my friend (the same one with the Linux images) sent me the link to the <a href="http://google-opensource.blogspot.com/">blog post</a> announcing this year’s Google Code-In, I assumed I would not be able to help in any significant capacity.”Maybe I’ll try next year when I know more programming,” I thought to myself. But then I saw this on the <a href="https://developers.google.com/open-source/gci/resources/getting-started">FAQ</a> and I was in:</p>
+
+<blockquote>
+  <p>Open Source Fundamentals:
+You can contribute without being a coder!
+You do not have to be a coder to contribute to open source. There are many different skill sets needed to help an open source community thrive.</p>
+</blockquote>
+
+<p>The guide went on to list ways to contribute: Documentation, Research, Outreach, Training, and User Interface. I don’t have to wait until I’m a coding master to help open source organizations, I can help now! What’s more, is that by helping in small, non-technical ways, I can still glean valuable information not only about programming, but about how to work with a community, help others, and challenge myself.</p>
+
+<p>The first task I did with Google Code-In probably didn’t help Copyleft Games, the mentor organization much. It was marked “beginner”, and all I had do was set up Copyleft’s 3D game engine on my computer, run a demo rendering, and take a screenshot. The task was really about introducing students to tools used for Linux development, but I still hit a few roadblocks. For example, did you know that you need Python 3, not 2 to install PySoy with WAF, and you need to compile Python with the <code>--enable-shared flag</code> in order for an interpreter to be embedded into another application? Neither did I. So here’s a thank you to Arc Riley, a mentor, as well as @ubuntor and @poxip, whose real names I may never know. Thank you for listening to my dumb questions on IRC (I also learned not to ask to ask, but to ask). Below is the screenshot I submitted.</p>
+
+<p><img src="/images/PySoyDemo.png" alt="My first task" /></p>
+
+<p>So here’s where I am now. While looking through more available task, I found a task from Sugar, the group that make software for those laptops they give to kids in Africa, titled “Introduce Yourself”. Here is what it said:</p>
+
+<blockquote>
+  <p>Write a blog post about why you are participating in Google Code-In, what you hope to learn from the GCI and how mariahvillarreal [a mentor] can help you. Include a picture. Share blog post through social media.</p>
+</blockquote>
+
+<p>“No,” you think to yourself,”I’ve been fooled into reading this high-school kid just wrote to get a t-shirt from Google, he doesn’t care about this stuff at all!” Well, that is partly true. This post is a response to that task, and it does help me win a t-shirt. But this blog post serves as more than that. In order to express my gratitude for this task not being marked “beginner”, I have turned this in to something more, a call to action for everyone, even those not technically inclined, to contribute to open source, because that’s what Google Code-In is about. <a href="http://www.pcworld.com/article/209891/10_reasons_open_source_is_good_for_business.html">Open source is really important</a>; nearly every piece of technology you use relies on some open source (you can find the GNU Open Source License on an Apple iPhone), and the best way to show gratitude is to give back to the community.</p>
+
+<p>So in response to the prompt, I am participating in the Google Code-In because I believe in open source. I hope to learn more about programming but also about the communities behind each of these organizations. mariahvillarreal can help me by getting this word out. Thank you for giving me this opportunity, Mariah. Now show this to everyone at Sugar Labs. Judges at Google, share this to your friends. Tweet about it. Everyone can get involved in open source. I hope this little post helps inspire a few.</p>
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></p>
+
+            
+<div class="social">
+    
+    <div class='twitter'>
+        <a href="https://twitter.com/share" class="twitter-share-button"  data-text="Trying my hand at Google Code-In" data-related="Isaac_rowe1">Tweet</a>
+    </div>
+    
+
+    
+    <div class='facebook'>
+        <div class="fb-share-button" data-layout="button_count"></div>
+    </div>
+    
+
+    
+    <div class='google'>
+        <div class="g-plusone" data-size="medium"></div>
+    </div>
+    
+    
+    
+
+    
+    <div class='reddit'>
+        <a href="//www.reddit.com/submit" onclick="window.open('//www.reddit.com/submit?url=http://www.isaacrowe.net/2015/01/04/trying-google-code-in/&title=Trying+my+hand+at+Google+Code-In'); return false"> <img src="//www.redditstatic.com/spreddit7.gif" alt="submit to reddit" border="0" /> </a>
+    </div>
+    
+</div>
+
+        </section>
+
+        <footer>
+            <address>
+               <img src="/images/myface.jpg">
+                <p>Written by <strong><a rel="author" href="https://twitter.com/Isaac_rowe1" title="" target="_blank">Isaac</a></strong><br>
+                <span class="muted"></span>
+                </p>
+            </address>
+            
+                
+                <section class="index">
+                    <h3 class="title">Next up: <a href="/2015/01/22/my-coding-testimony/" rel="prefetch">My Coding Testimony</a></h3>
+                    <p>In the beginning, there was a calculator. A TI-83 Plus, to be exact. Purchased off of Ebay for 8th grade Algebra, it was not a glamourous device.</p>
+                    <hr>
+                </section>
+             
+            
+                
+                <section class="index">
+                    <h3 class="title">Previous story: <a href="/2014/12/24/test-blog/" rel="prefetch">Test Blog</a></h3>
+                    <p><p>This is a test</p>
+
+</p>
+                    <hr>
+                </section>
+             
+            
+            <section>
+                <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'immaterialdesign'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+            </section>
+            
+        </footer>
+    </div>
+</article>
+
+
+<footer class="site-footer">
+    <div class="container">
+        &copy; 2015 Isaac Rowe
+        
+        <nav>
+            <a href="/">Blog</a> &middot;
+            <a href="/about.html">About</a>
+        </nav>
+        
+        <nav class="social">
+            
+<a href="https://twitter.com/Isaac_rowe1" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
+
+
+<a href="https://github.com/irowebbn" title="Watch on Github" target="_blank"><i class="icon icon-github"></i></a>
+
+
+<a href="http://facebook.com/isaac.rowe.180" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
+
+<a href="/atom.xml" title="RSS Feed">
+    <i class="icon icon-rss"></i>
+</a>
+
+        </nav>
+        <p>Based on Incorporated theme by <a href="https://sendtoinc.com">Inc</a></p>
+    </div>
+</footer>
+
+</body>
+</html>
