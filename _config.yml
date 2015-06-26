@@ -1,8 +1,8 @@
 inc:
   # Blog Information
-  title:        "Immaterial Design"
-  subtitle:     "Sirius makes websites beautiful"
-  cover_image:  blog-cover.jpg
+  title:        "Isaac Rowe"
+  subtitle:     "Thoughts on Life, the Universe and Everything"
+  cover_image:  lexington-center.jpg
   logo:         logo.png
   
   # Company information
@@ -20,19 +20,19 @@ inc:
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  immaterialdesign
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
-    gplus:      false
+    twitter:    true
+    facebook:   true
+    gplus:      true
     hn:         false
     
   
  # Analytics     
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
+    google: true # Add tracking code in _includes/_google-analytics.html
       
       
   # Google Fonts
