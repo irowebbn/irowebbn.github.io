@@ -1,24 +1,9 @@
 ---
-layout: base
-title: About Me
+layout: page
+title: "About"
+description: "This is what I do."
+header-img: "img/fort-bluff.jpg"
 ---
+<p> I'm a high scholl student in Kentucky and I do web development for <a href="http://www.awesomeinc.org">Awesome Inc</a>. I crafted <a href="http://awesomeincu.com">AwesomeIncU.com</a> with my bare hands.</p>
+<p>I'm just this guy, you know? If you want me to write more here, tweet at me and I'll update. But only if you tweet. I'm not going to update this if no one ever reads it.</p>
 
-<div class="blog-cover" style="background-image:url(/images/{{ site.cover_image }});">
-    
-    <section>
-        <div class="container">
-            <h1>{{page.title}}</h1>
-            {% if page.subtitle %}<h3>{{ page.subtitle }}</h3>{% else %}<h3>{{site.subtitle}}</h3>{% endif %}
-        
-            {% if site.inc.twitter %}
-            <a href="https://twitter.com/{{ site.inc.twitter }}" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter"></i></a>
-            {% endif %}
-            {% if site.inc.facebook %}
-            <a href="http://facebook.com/{{ site.inc.facebook }}" title="Like on Facebook" target="_blank"><i class="icon icon-facebook"></i></a>
-            {% endif %}
-            <a href="/feed.xml" title="RSS Feed">
-                <i class="icon icon-rss"></i>
-            </a>
-        </div>
-    </section>
-</div>

@@ -1,5 +1,9 @@
 ---
-published: true
+layout: post
+
+title: Trying my hand at Google Code-In
+subtitle: "Why everyone should contribute to open-source"
+header-img: "img/editor.jpg"
 ---
 
 I've been into open-source for some time, ever since I brought my school's old laptops back to life with my friend's Puppy Linux disc. I was amazed at how a project could reach quality at or above that of it's proprietary counterparts, and still remain free ([both as in beer and as in speech](http://www.gnu.org/philosophy/free-sw.html)). In this lies a revolution of open-source: if a project is free (of charge), then users are attracted, and if it is free (to contribute), then users who find it useful are motivated to contribute, which makes the project better and attracts more potential contributors.
@@ -16,7 +20,7 @@ The guide went on to list ways to contribute: Documentation, Research, Outreach,
 
 The first task I did with Google Code-In probably didn't help Copyleft Games, the mentor organization much. It was marked "beginner", and all I had do was set up Copyleft's 3D game engine on my computer, run a demo rendering, and take a screenshot. The task was really about introducing students to tools used for Linux development, but I still hit a few roadblocks. For example, did you know that you need Python 3, not 2 to install PySoy with WAF, and you need to compile Python with the `--enable-shared flag` in order for an interpreter to be embedded into another application? Neither did I. So here's a thank you to Arc Riley, a mentor, as well as @ubuntor and @poxip, whose real names I may never know. Thank you for listening to my dumb questions on IRC (I also learned not to ask to ask, but to ask).
 
-<img src="images/PySoyDemo.png">
+<img src="/img/PySoyDemo.png">
 
 So here's where I am now. While looking through more available task, I found a task from Sugar, the group that make software for those laptops they give to kids in Africa, titled "Introduce Yourself". Here is what it said:
 

@@ -3,14 +3,11 @@ layout: post
 
 title: My Coding Testimony
 subtitle: "Turns out salvation is works-based"
-cover_image: editor.jpg
+header-img: "img/editor.jpg"
 
 excerpt: "In the beginning, there was a calculator. A TI-83 Plus, to be exact. Purchased off of Ebay for 8th grade Algebra, it was not a glamourous device"
 
-author:
-  name: Isaac Rowe
-  twitter: isaac_rowe1
-  image: myface.jpg
+author: Isaac Rowe
 ---
 In the beginning, there was a calculator. A TI-83 Plus, to be exact. Purchased off of Ebay for 8th grade Algebra, it was not a glamourous device. Someone said you could play games on it. I didn’t know how to get any on there. But there was a button, labelled PGRM, that seemed promising. “NEW”, “EDIT”, “EXEC”. Sounds familiar. I’ve never programmed before, but I get to know my way around computers faster than some. The first program is a Quadratic Formula calculator, using what we were learning in class, just some math functions. Eventually I realized that all the commands are cataloged in the calculator. A “Guess the Number” program results. Someone gives me a link cable. CatalogHelp, and a handmade pong game make it to my calculator (also MirageOS for games, finally). What enthralls me is that I am in control of making the calculator do whatever I want, but I just have to learn the right words, available from an infinite combination of commands.
 

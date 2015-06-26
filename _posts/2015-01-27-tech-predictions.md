@@ -3,14 +3,11 @@ layout: post
 
 title: Tech Predictions for 2015
 subtitle: "My vision for the next 11 months"
-cover_image: covertech.jpg
+header-img: "img/covertech.jpg"
 
 excerpt: "2014 was a big year in technology. Wearable technology broke into the public consciousness, drones had everyone buzzing, smartphones got bigger (again), and large-scale cyberattacks grabbed headlines."
 
-author:
-  name: Isaac Rowe
-  twitter: isaac_rowe1
-  image: myface.jpg
+author: Isaac Rowe
 ---
 
 2014 was a big year in technology. Wearable technology broke into the public consciousness, drones had everyone buzzing, smartphones got bigger (again), and large-scale cyberattacks grabbed headlines. Given that the consumer electronics industry is now intricately interwoven with modern culture, predicting the trends of the industry is akin to to looking into the future. And because it’s not cool to be a clickbait post that makes vague and generally accurate but unhelpful predictions, each prediction will end with one very bold and probably ridiculous statement. That being said, here are my predictions for technology trends in 2015\.

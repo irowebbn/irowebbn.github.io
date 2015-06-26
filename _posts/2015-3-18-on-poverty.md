@@ -3,24 +3,21 @@ layout: post
 
 title: The Burden of Things
 subtitle: "The paradox of modern poverty"
-cover_image: mexico-2015-cover.jpg
+header-img: "img/mexico-2015-cover.jpg"
 
 
-author:
-  name: Isaac Rowe
-  twitter: isaac_rowe1
-  image: myface.jpg
+author: Isaac Rowe
 ---
 
 _Note_ : This essay was originally written as an assignment for a creative writing class. If you find it to drag on near the end, understand that this is due to the fact that I was trying to reach a page length requirement. Thank you.
 
 I recently went to Yucatan, Mexico on a mission trip with my church. No, this won’t be a cliché “what I learned on a mission trip” essay, although I did learn a lot about the people there and about my faith. But in a tangible sense, I learned a lot about economics in the real world and the relation between poverty and _stuff_.
 
-In Mexico, there’s people in poverty who don’t have that many things. Real poverty, in the way that most people think about it. Most buildings are unfinished, many only have dirt floors, and none are more than a few rooms at the largest. When I hear people talk mention poor kids in other countries, this is what I picture.![image alt text](images/mexico-thatch.jpg)
+In Mexico, there’s people in poverty who don’t have that many things. Real poverty, in the way that most people think about it. Most buildings are unfinished, many only have dirt floors, and none are more than a few rooms at the largest. When I hear people talk mention poor kids in other countries, this is what I picture.![img alt text](/img/mexico-thatch.jpg)
 
 But I’ve also come to realize that the there’s another type of poverty, and it is a completely different animal. Take, for example, the many homes in the Appalachian region of our state where people live in dilapidated structures, and where children’s lunches are funded by the state schools. Now look in their yards and back lots. Typically, I imagine seeing loads and loads of stuff. Multiple cars, trucks, tractors lay abandoned, while stacks on unused toys scatter the plot. How can a family with two relatively new cars and four rusting Ford F-150’s not be able to buy their kids food? And what are they doing with smartphones? It seems like poor prioritization.
 
-Well actually they can buy food, if you could call it that. Fast food chains offer availability and affordability at the sacrifice of nutrition, which is why obesity is associated with poverty in the west, contrary to what was once thought. Real food that helps the body costs significantly more, because our society has put a higher value on health than others historically have. Now it is the privilege of the wealthy to be thin and eat simple foods, and the market has driven it out of reach for others.![image alt text](images/american-poor.jpg)
+Well actually they can buy food, if you could call it that. Fast food chains offer availability and affordability at the sacrifice of nutrition, which is why obesity is associated with poverty in the west, contrary to what was once thought. Real food that helps the body costs significantly more, because our society has put a higher value on health than others historically have. Now it is the privilege of the wealthy to be thin and eat simple foods, and the market has driven it out of reach for others.![img alt text](/img/american-poor.jpg)
 
 In Yucatan, although the average income is about $10 USD a day, due to advantages in climate fresh food is easily available. Education, infrastructure, and security are out of reach, but food is not. The cost of living seems to me to be very to low, if you need it to be. The problem is that in America (and probably other developed countries) the essential things like food cost more and the “luxuries” like education and transportation cost less, leaving poor people in an unfortunate situation. At risk of sounding unsympathetic to those in the most severe of situations, many considered in poverty will get by just fine. But is mere continuance good enough? Is the guarantee of a life expectancy longer than the rest of the world enough to say, “That’s fine, these people aren’t poor anymore, move along”, or should we be constantly saying “We’re not quite there yet, these conditions need to improve?”
 

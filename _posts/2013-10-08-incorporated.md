@@ -3,16 +3,11 @@ layout: post
 
 title: Jekyll Incorporated Features
 subtitle: "What's in the box"
-cover_image: blog-cover.jpg
+header-img: "img/blog-cover.jpg"
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
-author:
-  name: Karri Saarinen
-  twitter: karrisaarinen
-  gplus: 100687498195339762535 
-  bio: Co-founder, Design
-  image: ks.png
+author:  Karri Saarinen
 ---
 
 Incorporated provides a great typography, responsive design, author details, semantic markup and more.
@@ -100,7 +95,7 @@ inc:
 {% endhighlight %}
 
 **Zoomable images**
-<div class="full zoomable"><img src="/images/incorporated.jpg"></div>
+<div class="full zoomable"><img src="/img/incorporated.jpg"></div>
 
 **Awesome quotes**
 > “Effective companies tend to communicate more, their people are curious and they have opinions”
