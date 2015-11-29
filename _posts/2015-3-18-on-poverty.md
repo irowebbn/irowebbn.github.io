@@ -9,7 +9,7 @@ header-img: "img/mexico-2015-cover.jpg"
 author: Isaac Rowe
 ---
 
-_Note_ : This essay was originally written as an assignment for a creative writing class. If you find it to drag on near the end, understand that this is due to the fact that I was trying to reach a page length requirement. Thank you.
+>_Note_ : This essay was originally written as an assignment for a creative writing class. If you find it to drag on near the end, understand that this is due to the fact that I was trying to reach a page length requirement. Thank you.
 
 I recently went to Yucatan, Mexico on a mission trip with my church. No, this won’t be a cliché “what I learned on a mission trip” essay, although I did learn a lot about the people there and about my faith. But in a tangible sense, I learned a lot about economics in the real world and the relation between poverty and _stuff_.
 
