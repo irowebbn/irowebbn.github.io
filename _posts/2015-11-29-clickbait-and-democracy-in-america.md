@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Clickbait and Demcoracy in America
+title: Clickbait and Democracy in America
 subtitle: "Tocqueville in the Digital Age"
 header-img: "img/Election_Day_1815_by_John_Lewis_Krimmel.jpg"
 
