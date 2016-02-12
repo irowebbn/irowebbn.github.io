@@ -4,6 +4,7 @@ description: "Thoughts on Life, the Universe and Everything"
 ---
 
 {% for post in paginator.posts %}
+{% if post.invisible != 1 %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
@@ -17,6 +18,7 @@ description: "Thoughts on Life, the Universe and Everything"
     <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
+{% endif %}
 {% endfor %}
 
 <!-- Pager -->
