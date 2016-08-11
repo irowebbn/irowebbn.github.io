@@ -1,12 +1,10 @@
 ---
 layout: post
-
 title: Net Profit
-subtitle: "A Brief Overview of Net Neutrality Theory"
-header-img: "img/data-center.jpg"
-
-
+subtitle: A Brief Overview of Net Neutrality Theory
+header-img: img/data-center.jpg
 author: Isaac Rowe
+published: true
 ---
 >_Note_ : This was written in February 2015 as a thesis paper for school. A blog-friendly version (read: more pictures, fewer words) may come soon.
 
