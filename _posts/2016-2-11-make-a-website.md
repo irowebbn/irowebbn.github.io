@@ -12,7 +12,7 @@ invisible: 1
 <iframe src="https://docs.google.com/presentation/d/1wNpDMPySImQVZn3oHTEm6-Odz_j9zYDW1_2Cu92jnc4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
-#Intro 
+#Intro
 
 So you want to make a website? Good for you! Making a website was my first step into coding, and it's not that hard to learn. If you follow these steps, you can have a working website in no time, made completely by you.
 
@@ -22,7 +22,7 @@ Making a website is not hard, it's figuring out where to start that's difficult.
 
 >He may rely on a baseline collection of reference materials he's discovered to do it. He may enlist tons of Google-fu to painfully acquire morsels of increased awareness. He may take this awareness and further refine his question on stackoverflow. He may go "keyword hopping" where initial searches lead him to unknown keywords for which he can refine his initial search to gain more awareness and repeat."
 
-My mission here is to make sure that your time is not wasted going down rabbit holes of confused Google searches because you don't actually know what it is you are looking for. Additionally, the experience of gaining *conceptual awareness* as described above, however infuriating, is integral to gaining a full appreciation of what you are learning (Actually, I have no idea if it is actually integral, I'm not a cognitive researcher, but let's just go with it). Therefore, I will aim to provide the fullest context I can without spoon-feeding, and try to point you to the places you should look, all in a narrative format. 
+My mission here is to make sure that your time is not wasted going down rabbit holes of confused Google searches because you don't actually know what it is you are looking for. Additionally, the experience of gaining *conceptual awareness* as described above, however infuriating, is integral to gaining a full appreciation of what you are learning (Actually, I have no idea if it is actually integral, I'm not a cognitive researcher, but let's just go with it). Therefore, I will aim to provide the fullest context I can without spoon-feeding, and try to point you to the places you should look, all in a narrative format.
 
 The reason for the narrative format is because all of technology is built on what has come before it, by "standing on the shoulders of giants." To understand why things are the way they *are*, you have to understand why they *were* the things they used to be, the problems they exist to solve. Then you can understand how they can be used to become what they *will be* in the future, and you become part of the progress, and it all just makes a lot more sense. This all sounds great in my head, but now it's time to get down to learning.
 
@@ -48,7 +48,7 @@ This post will be published incrementally, as I develop it, so it will be perpet
 
 **Reading List**: Part of the "conceptual awareness" thing I talked about earlier. Reading these is not required, but will definately expand your knowledge of the material and its context.
 
-**Recommended Tutorials**: For sections that call for it, I will link to tutorials I find helpful for hands-on learning. These are essential for developing a workflow. You can do these before, after or during the section, but your should do them.
+**Recommended Tutorials**: For sections that call for it, I will link to tutorials I find helpful for hands-on learning. These are essential for developing a workflow. You can do these before, after or during the section, but you should do them.
 
 The rest is where I get to teach, rant, tell stories, drop pop culture references, and share how I think the best way to approach the topic at hand.
 
