@@ -3,7 +3,7 @@ layout: post
 
 title: Balancing Economic Freedom with Personal Safety
 subtitle: "U.S. Computer Crimes and Security Research"
-
+header-img: ""
 
 author: Isaac Rowe
 ---

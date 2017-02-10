@@ -3,7 +3,7 @@ layout: post
 
 title: The Burden of Things
 subtitle: "The paradox of modern poverty"
-header-img: "img/mexico-2015-cover.jpg"
+header-img: img/mexico-2015-cover.jpg
 
 
 author: Isaac Rowe
