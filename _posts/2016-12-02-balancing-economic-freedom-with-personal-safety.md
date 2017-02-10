@@ -3,7 +3,6 @@ layout: post
 
 title: Balancing Economic Freedom with Personal Safety
 subtitle: "U.S. Computer Crimes and Security Research"
-header-img: "img/data-center.jpg"
 
 
 author: Isaac Rowe
@@ -31,31 +30,31 @@ An ideal solution would take the burden off of researchers constantly fighting t
 
 # Works Cited
 
-# Bigelow, Pete. "General Motors says it owns your car's software." *Autoblog, *20 May 2015. [http://www.autoblog.com/2015/05/20/general-motors-says-owns-your-car-software/](http://www.autoblog.com/2015/05/20/general-motors-says-owns-your-car-software/) Accessed 29 November 2016.
+Bigelow, Pete. "General Motors says it owns your car's software." *Autoblog,* 20 May 2015. [http://www.autoblog.com/2015/05/20/general-motors-says-owns-your-car-software/](http://www.autoblog.com/2015/05/20/general-motors-says-owns-your-car-software/) Accessed 29 November 2016.
 
 Constant, Sarah A. "The Computer Fraud and Abuse Act: A Prosecutor's Dream and a Hacker's Worst Nightmare - The Case against Aaron Swartz and the Need to Reform the CFAA." *Tulane Journal of Technology and Intellectual Property*, vol. 16, 2013, pp. 231-48. *Hein Online*, [heinonline.org/HOL/Page?handle=hein.journals/tuljtip16&start_page=231&collection=journals&id=241](http://heinonline.org/HOL/Page?handle=hein.journals/tuljtip16&start_page=231&collection=journals&id=241). Accessed 4 Oct. 2016.
 
-Duffy, William."Defeat Devices as Intellectual Property: A Retrospective Assessment from the DMCA Rulemaking.” *The CCCC-IP Annual: Top Intellectual Property Developments of 2015. *Intellectual Property Caucus of the Conference on College Composition and Communication, March 2016, pp 37- 45. *National Council of Teachers of English, *[www.ncte.org/library/NCTEFiles/Groups/CCCC/Committees/TopIP2015Collection.pdf#page=37](http://www.ncte.org/library/NCTEFiles/Groups/CCCC/Committees/TopIP2015Collection.pdf#page=37). Accessed 4 Oct. 2016.
+Duffy, William."Defeat Devices as Intellectual Property: A Retrospective Assessment from the DMCA Rulemaking.” *The CCCC-IP Annual: Top Intellectual Property Developments of 2015.* Intellectual Property Caucus of the Conference on College Composition and Communication, March 2016, pp 37- 45. *National Council of Teachers of English*, [www.ncte.org/library/NCTEFiles/Groups/CCCC/Committees/TopIP2015Collection.pdf#page=37](http://www.ncte.org/library/NCTEFiles/Groups/CCCC/Committees/TopIP2015Collection.pdf#page=37). Accessed 4 Oct. 2016.
 
-Greenberg, Andy. "Hackers Remotely a Kill Jeep Highway - With Me in It." *Wired, *21 July 2015. [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/). Accessed 2 November 2016.
+Greenberg, Andy. "Hackers Remotely a Kill Jeep Highway - With Me in It." *Wired,* 21 July 2015. [https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/). Accessed 2 November 2016.
 
 Hasenfus, Nicholas. "Unlocking Will Get You Locked Up: A Recent Change to the DMCA Makes Unlocking Cell Phones Illegal." *Journal of High Technology Law*, vol. 15, no. 2, 2014, pp. 301-328. *Hein Online*, [heinonline.org/HOL/Page?handle=hein.journals/jhtl15&g_sent=1&collection=journals&id=303](http://heinonline.org/HOL/Page?handle=hein.journals/jhtl15&g_sent=1&collection=journals&id=303). Accessed 4 Oct. 2016
 
 "H.R. 1883 — 114th Congress: Breaking Down Barriers to Innovation Act of 2015." *GovTrack*. 2015. [https://www.govtrack.us/congress/bills/114/hr1883](https://www.govtrack.us/congress/bills/114/hr1883). Accessed 1 November 2016
 
-Koberidze, Maryna. "The DMCA Rulemaking Mechanism: Fail or Safe?" *Washington Journal of Law, Technology & Arts*, vol. 11, no. 3, 2015. *Social Science Research Network, **[ssrn.com/abstract=272491*7](http://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2724917)*. *Accessed 4 Oct 2016.
+Koberidze, Maryna. "The DMCA Rulemaking Mechanism: Fail or Safe?" *Washington Journal of Law, Technology & Arts*, vol. 11, no. 3, 2015. *Social Science Research Network*, [ssrn.com/abstract=272491*7](http://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2724917). Accessed 4 Oct 2016.
 
-Lenard, George L. "Using the Computer Fraud and Abuse Act to Combat Improper Employee Competition." *Journal of Internet Law, *vol. 8, no. 9, 2005, pp. 1 - 20. *Business Source Complete. *[http://ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=16615409&site=ehost-live&scope=site](http://ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=16615409&site=ehost-live&scope=site). Accessed 29 November 2016.
+Lenard, George L. "Using the Computer Fraud and Abuse Act to Combat Improper Employee Competition." *Journal of Internet Law*, vol. 8, no. 9, 2005, pp. 1 - 20. *Business Source Complete.* [http://ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=16615409&site=ehost-live&scope=site](http://ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=bth&AN=16615409&site=ehost-live&scope=site). Accessed 29 November 2016.
 
-Matwyshyn, Andrea M, Ang Cui, Angelos D. Keromytis, and Salvatore J. Stolfo. "Ethics in Security Vulnerability Research." *IEEE Security and Privacy, *March/April 2010, pp 67-72. [https://www.cs.columbia.edu/~angelos/Papers/2010/msp2010020067.pdf](https://www.cs.columbia.edu/~angelos/Papers/2010/msp2010020067.pdf). Accessed 29 November 2016.
+Matwyshyn, Andrea M, Ang Cui, Angelos D. Keromytis, and Salvatore J. Stolfo. "Ethics in Security Vulnerability Research." *IEEE Security and Privacy*, March/April 2010, pp 67-72. [https://www.cs.columbia.edu/~angelos/Papers/2010/msp2010020067.pdf](https://www.cs.columbia.edu/~angelos/Papers/2010/msp2010020067.pdf). Accessed 29 November 2016.
 
-Monarch, Ben. "The Good Hacker: A Look at the Role of Hacktivism in Democracy." *Social Science Research Network, *8 May 2015,[ ssrn.com/abstract=2649136](http://ssrn.com/abstract=2649136). Accessed 4 Oct. 2016.
+Monarch, Ben. "The Good Hacker: A Look at the Role of Hacktivism in Democracy." *Social Science Research Network*, 8 May 2015,[ ssrn.com/abstract=2649136](http://ssrn.com/abstract=2649136). Accessed 4 Oct. 2016.
 
-Newcomb, Doug. "The Next Big OS War is in Your Dashboard." *Wired, *3 December 2012. [https://www.wired.com/2012/12/automotive-os-war/](https://www.wired.com/2012/12/automotive-os-war/) Accessed 29 Novemer 2016.
+Newcomb, Doug. "The Next Big OS War is in Your Dashboard." *Wired*, 3 December 2012. [https://www.wired.com/2012/12/automotive-os-war/](https://www.wired.com/2012/12/automotive-os-war/) Accessed 29 Novemer 2016.
 
-Pelegrin, Williams. "Unlocking Your Phone is Legal Again: What You Need to Know." *Digital Trends, *11 February 2015. [http://www.digitaltrends.com/mobile/unlocking-your-new-smartphone-is-now-illegal-what-you-need-to-know/](http://www.digitaltrends.com/mobile/unlocking-your-new-smartphone-is-now-illegal-what-you-need-to-know/). Accessed 1 November 2016.
+Pelegrin, Williams. "Unlocking Your Phone is Legal Again: What You Need to Know." *Digital Trends*, 11 February 2015. [http://www.digitaltrends.com/mobile/unlocking-your-new-smartphone-is-now-illegal-what-you-need-to-know/](http://www.digitaltrends.com/mobile/unlocking-your-new-smartphone-is-now-illegal-what-you-need-to-know/). Accessed 1 November 2016.
 
-Sellars, Andy. "DMCA Exemption Granted for Med Device Research, Patient Access to Data." *Harvard Law Clinic Cyberlaw Clinic, *27 October 2015. [http://clinic.cyber.harvard.edu/2015/10/27/dmca-exception-granted-for-medical-device-research-patient-access-to-data/](http://clinic.cyber.harvard.edu/2015/10/27/dmca-exception-granted-for-medical-device-research-patient-access-to-data/), Accessed 1 November 2016.
+Sellars, Andy. "DMCA Exemption Granted for Med Device Research, Patient Access to Data." *Harvard Law Clinic Cyberlaw Clinic*, 27 October 2015. [http://clinic.cyber.harvard.edu/2015/10/27/dmca-exception-granted-for-medical-device-research-patient-access-to-data/](http://clinic.cyber.harvard.edu/2015/10/27/dmca-exception-granted-for-medical-device-research-patient-access-to-data/), Accessed 1 November 2016.
 
 Thaw, David. "Criminalizing Hacking, Not Dating: Reconstructing The Cfaa Intent Requirement." *Journal Of Criminal Law & Criminology*, vol. 103, no. 3, 2013, pp. 907-48. *Psychology and Behavioral Sciences Collection*. [ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=pbh&AN=89862800&site=ehost-live&scope=site](http://ezproxy.uky.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=pbh&AN=89862800&site=ehost-live&scope=site). Accessed 4 Oct. 2016.
 
